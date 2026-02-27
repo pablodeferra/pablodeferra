@@ -27,6 +27,4 @@ I'm a **Master's student and researcher in Astrophysics** at the Universidad de 
 - 🔗 LinkedIn: https://www.linkedin.com/in/pablo-de-ferra-chermaz-a006622b9/
 
 
----
-
-*Aspiring PhD researcher in observational cosmology, committed to open and reproducible science.*
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablodeferra)](https://github.com/anuraghazra/github-readme-stats)

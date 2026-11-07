@@ -37,13 +37,6 @@ I'm an **M.Sc. graduate in Astrophysics** from the Universidad de La Laguna, wor
 - **de Ferra, P.**, & Rubiño-Martín, J. A., *Spatial variations of polarized synchrotron and dust parameters from power-spectrum analysis*, to be submitted to A&A
 - **de Ferra, P.**, et al., *Assessing synchrotron intensity gradients as a tracer of Galactic magnetic field structure*, manuscript in preparation
 
-## Selected Projects
-
-- [Master's thesis](https://github.com/pablodeferra/tfm_pablo_de_ferra): spectral index estimation of polarized synchrotron and thermal dust foregrounds
-- [Bachelor's thesis](https://github.com/pablodeferra/Spectral-index-of-the-synchrotron-emission): spectral index of the polarized synchrotron emission in QUIJOTE maps
-- [Barnes–Hut N-body code](https://github.com/pablodeferra/ull_tp_2526/tree/HEAD/students/dfp/course_exercise_2): tree code in Fortran, with serial, OpenMP and MPI versions
-- [Gadget-4](https://github.com/pablodeferra/Gadget-4): cosmological N-body simulations of large-scale structure
-
 ## Technical Skills
 
 - **Programming:** Python, Fortran 90, Bash/Linux, SQL, ADQL, Git
